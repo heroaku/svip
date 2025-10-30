@@ -1,6 +1,6 @@
 {
-    //"spider": "./svip.jar",
-	"spider": "https://github.com/heroaku/TVboxo/raw/refs/heads/main/Jar/7080.jar;md5;dbe639527df26d6a0fd4f7c9256be475",
+    "spider": "./svip.jar",
+	//"spider": "https://github.com/heroaku/TVboxo/raw/refs/heads/main/Jar/7080.jar;md5;dbe639527df26d6a0fd4f7c9256be475",
     "wallpaper": "https://sgmao.serv00.net/image/",
     //"logo": "./logo.gif",
     "sites": [
