@@ -1,5 +1,6 @@
 {
-    "spider": "./svip.jar",
+    //"spider": "./svip.jar",
+	"spider": "https://github.com/heroaku/TVboxo/raw/refs/heads/main/Jar/7080.jar;md5;dbe639527df26d6a0fd4f7c9256be475",
     "wallpaper": "https://sgmao.serv00.net/image/",
     //"logo": "./logo.gif",
     "sites": [
@@ -18,13 +19,15 @@
             "filterable": 1,
             "playerType": 2
         },
-        {
+      /*
+		{
             "key": "豆瓣",
             "name": "豆瓣｜公众号：拾光趣乐屋",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
+		*/
         {
             "key": "预告",
             "name": "新片｜预告",
