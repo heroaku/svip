@@ -24,7 +24,6 @@
 		    {
       "key": "影视",
       "name": "☀映射🔹4k源",
-	 "jar": " https://github.com/pooppiss/tvbox/raw/26f73eb844ee93840b2283d4df16bc71e595eb52/jar/fan.txt;md5;11b6dbd2b630fc9c95e36247917f55db",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
